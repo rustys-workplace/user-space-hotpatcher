@@ -1,0 +1,16 @@
+# Compiled binaries and object files
+*.o
+*.so
+*.out
+build/
+
+# Specific project binaries (adjust to your actual output names)
+injector
+target_app
+
+# Debug and system files
+*.log
+core
+vgcore.*
+.vscode/
+.idea/
